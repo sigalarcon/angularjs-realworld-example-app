@@ -23,7 +23,13 @@ const MIME_TYPES = {
 };
 
 const server = http.createServer((req, res) => {
-  let filePath = path.join(BUILD_DIR, req.url === '/' ? 'index.html' : req.url);
+  let urlPath = req.url === '/' ? 'index.html' : req.url.split('?')[0];
+  let filePath = path.join(BUILD_DIR, urlPath);
+
+  // Prevent path traversal
+  if (!filePath.startsWith(BUILD_DIR)) {
+    filePath = path.join(BUILD_DIR, 'index.html');
+  }
 
   // If file doesn't exist, serve index.html (SPA fallback)
   if (!fs.existsSync(filePath)) {
