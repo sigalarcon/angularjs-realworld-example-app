@@ -23,7 +23,8 @@ const MIME_TYPES = {
 };
 
 const server = http.createServer((req, res) => {
-  let urlPath = req.url === '/' ? 'index.html' : req.url.split('?')[0];
+  let rawPath = req.url.split('?')[0];
+  let urlPath = rawPath === '/' ? 'index.html' : rawPath;
   let filePath = path.join(BUILD_DIR, urlPath);
 
   // Prevent path traversal (append separator to avoid prefix-matching sibling dirs)
