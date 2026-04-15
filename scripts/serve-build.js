@@ -26,8 +26,8 @@ const server = http.createServer((req, res) => {
   let urlPath = req.url === '/' ? 'index.html' : req.url.split('?')[0];
   let filePath = path.join(BUILD_DIR, urlPath);
 
-  // Prevent path traversal
-  if (!filePath.startsWith(BUILD_DIR)) {
+  // Prevent path traversal (append separator to avoid prefix-matching sibling dirs)
+  if (!filePath.startsWith(BUILD_DIR + path.sep) && filePath !== BUILD_DIR) {
     filePath = path.join(BUILD_DIR, 'index.html');
   }
 
