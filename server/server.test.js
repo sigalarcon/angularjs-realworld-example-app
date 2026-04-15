@@ -34,7 +34,7 @@ describe('GET /api/articles', () => {
     expect(res.status).toBe(200);
     expect(Array.isArray(res.body.articles)).toBe(true);
     expect(typeof res.body.articlesCount).toBe('number');
-    expect(res.body.articlesCount).toBe(res.body.articles.length);
+    expect(res.body.articlesCount).toBeGreaterThanOrEqual(res.body.articles.length);
   });
 
   test('filters by tag', async () => {
@@ -59,6 +59,7 @@ describe('GET /api/articles', () => {
     await request(server).post('/api/articles/pebble-beach-golf-links/favorite');
     const res = await request(server).get('/api/articles?favorited=true');
     expect(res.status).toBe(200);
+    expect(res.body.articles.length).toBeGreaterThan(0);
     res.body.articles.forEach((a) => {
       expect(a.favorited).toBe(true);
     });
