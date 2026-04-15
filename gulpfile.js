@@ -41,9 +41,15 @@ gulp.task('browserify', ['views'], function() {
 });
 
 gulp.task('html', function() {
-  return gulp.src("src/index.html")
+  return gulp.src(["src/index.html", "src/main.css"])
       .on('error', interceptErrors)
       .pipe(gulp.dest('./build/'));
+});
+
+gulp.task('images', function() {
+  return gulp.src("src/images/**/*")
+      .on('error', interceptErrors)
+      .pipe(gulp.dest('./build/images/'));
 });
 
 gulp.task('views', function() {
@@ -58,7 +64,7 @@ gulp.task('views', function() {
 
 // This task is used for building production ready
 // minified JS/CSS files into the dist/ folder
-gulp.task('build', ['html', 'browserify'], function() {
+gulp.task('build', ['html', 'browserify', 'images'], function() {
   var html = gulp.src("build/index.html")
                  .pipe(gulp.dest('./dist/'));
 
@@ -69,7 +75,7 @@ gulp.task('build', ['html', 'browserify'], function() {
   return merge(html,js);
 });
 
-gulp.task('default', ['html', 'browserify'], function() {
+gulp.task('default', ['html', 'browserify', 'images'], function() {
 
   browserSync.init(['./build/**/**.**'], {
     server: "./build",

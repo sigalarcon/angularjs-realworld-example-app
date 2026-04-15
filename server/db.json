@@ -1,0 +1,195 @@
+{
+  "articles": [
+    {
+      "slug": "pebble-beach-golf-links",
+      "image": "images/pebble-beach.jpg",
+      "title": "Pebble Beach Golf Links: Where the Ocean Meets the Fairway",
+      "description": "Explore one of the most iconic golf courses in the world, perched along the rugged Monterey Peninsula coastline.",
+      "body": "Pebble Beach Golf Links is arguably the most famous public golf course in America. Opened in 1919, it has hosted six U.S. Opens, most recently in 2019, and continues to be a bucket-list destination for golfers worldwide.\n\nThe par-72 course stretches along the Pacific Ocean, offering breathtaking views from nearly every hole. The signature 7th hole — a tiny par 3 perched on a rocky outcrop above the crashing surf — is one of the most photographed holes in golf.\n\nDesigned by Jack Neville and Douglas Grant, both amateur champions who let the natural landscape dictate the routing, Pebble Beach rewards accuracy and course management over raw power. The back nine, which hugs the coastline from holes 8 through 10 before turning inland, is considered one of the finest stretches in golf.\n\nGreen fees are steep — upwards of $575 for non-resort guests — but the experience is unmatched. The course is maintained to impeccable standards, and the combination of ocean views, wildlife sightings, and championship-caliber design makes every dollar feel justified.\n\nWhether you're a scratch golfer chasing a personal best or a weekend player soaking in the scenery, Pebble Beach delivers an unforgettable round.",
+      "tagList": ["golf", "pebble-beach", "monterey", "california", "ocean"],
+      "createdAt": "2026-03-15T10:00:00.000Z",
+      "updatedAt": "2026-03-15T10:00:00.000Z",
+      "favorited": false,
+      "favoritesCount": 24,
+      "author": {
+        "username": "golfcalifornia",
+        "bio": "Covering the best golf courses across California.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=GC",
+        "following": false
+      }
+    },
+    {
+      "slug": "torrey-pines-south-course",
+      "image": "images/torrey-pines.jpg",
+      "title": "Torrey Pines South Course: Municipal Golf at Its Finest",
+      "description": "San Diego's crown jewel offers major championship conditions at public course prices.",
+      "body": "Torrey Pines South Course sits atop dramatic sandstone bluffs overlooking the Pacific Ocean in La Jolla, San Diego. It's a rare municipal course that has hosted major championships — most famously the 2008 U.S. Open, where Tiger Woods sank a legendary putt on the 72nd hole to force a playoff.\n\nRedesigned by Rees Jones in 2001 to toughen it for major play, the South Course plays long at over 7,600 yards from the tips. The Bermuda and Kikuyu grass fairways are tight, the rough is punishing, and the coastal wind adds another layer of difficulty.\n\nHole 3, a par 3 playing downhill toward the ocean, is the most scenic on the course. But it's the closing stretch — particularly the 455-yard par-4 18th with its elevated green — that defines Torrey Pines South as a true test of golf.\n\nAs a San Diego city-owned course, residents enjoy significantly reduced green fees compared to visitors. Even at full price, Torrey Pines South is a bargain for the quality of experience.\n\nThe on-site Lodge at Torrey Pines offers luxury accommodations, and the surrounding Torrey Pines State Natural Reserve provides stunning hiking trails along the bluffs. It's a destination that pairs world-class golf with Southern California's best natural beauty.",
+      "tagList": ["golf", "torrey-pines", "san-diego", "california", "public-course"],
+      "createdAt": "2026-03-14T09:30:00.000Z",
+      "updatedAt": "2026-03-14T09:30:00.000Z",
+      "favorited": false,
+      "favoritesCount": 18,
+      "author": {
+        "username": "golfcalifornia",
+        "bio": "Covering the best golf courses across California.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=GC",
+        "following": false
+      }
+    },
+    {
+      "slug": "cypress-point-club",
+      "image": "images/cypress-point.jpg",
+      "title": "Cypress Point Club: Golf's Most Exclusive Sanctuary",
+      "description": "A look inside the ultra-private Cypress Point Club on the Monterey Peninsula — considered by many as the most beautiful course ever built.",
+      "body": "Cypress Point Club, designed by Alister MacKenzie and opened in 1928, is widely regarded as one of the greatest golf courses ever created. Set among the wind-sculpted Monterey cypresses along 17-Mile Drive, it is a place of almost supernatural beauty.\n\nThe course features an extraordinary variety of terrain: forest holes that wind through towering pines, dune-like links holes along the coast, and the legendary 16th — a 231-yard par 3 that requires a carry entirely over the Pacific Ocean to a green perched on a rocky headland. It is, without exaggeration, one of the most dramatic holes in all of golf.\n\nCypress Point is intensely private, with a membership capped at approximately 250. There are no tee times posted online, no pro shop merchandise for sale, and the club rarely opens its doors to the public. Playing here requires an invitation from a member.\n\nMacKenzie's design philosophy — that a course should look natural, as if it had always been there — is fully realized at Cypress Point. The bunkering is artistic, the greens are subtly contoured, and the routing flows organically through the landscape.\n\nWhile most golfers will never set foot on Cypress Point, it remains a touchstone of golf course architecture and a reminder of what is possible when a brilliant designer meets a perfect piece of land.",
+      "tagList": ["golf", "cypress-point", "monterey", "california", "private", "architecture"],
+      "createdAt": "2026-03-13T14:00:00.000Z",
+      "updatedAt": "2026-03-13T14:00:00.000Z",
+      "favorited": false,
+      "favoritesCount": 31,
+      "author": {
+        "username": "golfhistorian",
+        "bio": "Writing about the history and design of great golf courses.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=GH",
+        "following": false
+      }
+    },
+    {
+      "slug": "spyglass-hill-golf-course",
+      "image": "images/spyglass-hill.jpg",
+      "title": "Spyglass Hill: The Toughest Test on the Monterey Peninsula",
+      "description": "Robert Trent Jones Sr.'s masterpiece combines ocean holes with a demanding forest interior.",
+      "body": "Spyglass Hill Golf Course, designed by Robert Trent Jones Sr. and opened in 1966, is often called the toughest of the three courses used in the AT&T Pebble Beach Pro-Am. With a slope rating of 148 from the championship tees, it consistently humbles even the best players in the world.\n\nThe first five holes play through coastal dunes with sweeping ocean views. The par-4 1st, named \"Treasure Island,\" plunges downhill toward the sea, setting an exhilarating tone. The par-3 3rd plays directly toward the ocean, and on clear days, you can see whales breaching offshore.\n\nAfter the 5th hole, the course dives into the Del Monte Forest, where tall Monterey pines frame narrow fairways and the atmosphere shifts from open and windswept to quiet and cathedral-like. The forest holes are long and demanding, with well-bunkered greens that require precise approach shots.\n\nSpyglass Hill takes its name from Robert Louis Stevenson's \"Treasure Island\" — Stevenson reportedly drew inspiration from this stretch of coastline. Each hole is named after a location or character from the novel.\n\nThe course is open to the public, though green fees are over $400. For players who want a stern test of their game in a spectacular setting, Spyglass Hill delivers in full.",
+      "tagList": ["golf", "spyglass-hill", "monterey", "california", "challenging"],
+      "createdAt": "2026-03-12T11:00:00.000Z",
+      "updatedAt": "2026-03-12T11:00:00.000Z",
+      "favorited": false,
+      "favoritesCount": 15,
+      "author": {
+        "username": "golfcalifornia",
+        "bio": "Covering the best golf courses across California.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=GC",
+        "following": false
+      }
+    },
+    {
+      "slug": "pasatiempo-golf-club",
+      "image": "images/pasatiempo.jpg",
+      "title": "Pasatiempo Golf Club: MacKenzie's Home Course",
+      "description": "Alister MacKenzie loved this Santa Cruz course so much he built his home alongside the 6th fairway.",
+      "body": "Pasatiempo Golf Club in Santa Cruz is one of Alister MacKenzie's finest designs and was his personal favorite among his own creations — so much so that he built his home overlooking the 6th fairway, where he lived until his death in 1934.\n\nOpened in 1929, Pasatiempo features MacKenzie's hallmark design elements: strategic bunkering, undulating greens with multiple pin positions that reward different shot shapes, and a routing that feels both natural and endlessly interesting.\n\nThe par-3 16th is a standout — a dramatic downhill shot over a barranca (ravine) to a well-defended green. But every hole at Pasatiempo has character. MacKenzie believed that no two consecutive holes should play in the same direction, and the constant changes in angle and elevation keep players fully engaged.\n\nTom Doak led a restoration in 2007 that returned many of MacKenzie's original design features, including bunker shapes and green contours that had been softened over the decades. The result is a course that feels both historic and contemporary.\n\nPasatiempo is semi-private but accessible to public play. Green fees hover around $300, which is a fair price for a round on one of the finest courses on the West Coast. The setting — with views of Monterey Bay and the Santa Cruz Mountains — is gorgeous.\n\nIf you're a student of golf architecture, Pasatiempo is essential.",
+      "tagList": ["golf", "pasatiempo", "santa-cruz", "california", "mackenzie", "architecture"],
+      "createdAt": "2026-03-11T08:45:00.000Z",
+      "updatedAt": "2026-03-11T08:45:00.000Z",
+      "favorited": false,
+      "favoritesCount": 20,
+      "author": {
+        "username": "golfhistorian",
+        "bio": "Writing about the history and design of great golf courses.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=GH",
+        "following": false
+      }
+    },
+    {
+      "slug": "riviera-country-club",
+      "image": "images/riviera.jpg",
+      "title": "Riviera Country Club: Hogan's Alley in Pacific Palisades",
+      "description": "The historic Los Angeles course where Ben Hogan made his name — and where the PGA Tour still competes today.",
+      "body": "Riviera Country Club in Pacific Palisades, Los Angeles, is one of America's most celebrated private clubs. Designed by George C. Thomas Jr. and opened in 1926, it has hosted the U.S. Open, the PGA Championship, and currently serves as the venue for the PGA Tour's Genesis Invitational.\n\nThe course earned the nickname \"Hogan's Alley\" because Ben Hogan won three consecutive events here between 1947 and 1948, including the 1948 U.S. Open. His precision and ball-striking mastery were perfectly suited to Riviera's tight, tree-lined fairways and demanding approaches.\n\nThe most famous hole is the par-3 6th, where a bunker sits in the middle of the green — a quirky, controversial design choice that forces creative shot-making. The par-4 10th, a short drivable hole that tempts players to go for the green, is another Thomas masterstroke of strategic design.\n\nRiviera sits in a natural canyon, and the elevation changes throughout the round create a sense of drama. The par-4 18th plays uphill to a green backed by the iconic clubhouse, providing one of golf's great finishing holes.\n\nAs a private club, Riviera is not accessible to the general public, but attending the Genesis Invitational is the best way to experience the course. Walking the fairways during tournament week gives you an appreciation for why this course consistently ranks among the top 15 in the world.",
+      "tagList": ["golf", "riviera", "los-angeles", "california", "pga-tour", "private"],
+      "createdAt": "2026-03-10T13:15:00.000Z",
+      "updatedAt": "2026-03-10T13:15:00.000Z",
+      "favorited": false,
+      "favoritesCount": 27,
+      "author": {
+        "username": "golfcalifornia",
+        "bio": "Covering the best golf courses across California.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=GC",
+        "following": false
+      }
+    },
+    {
+      "slug": "pelican-hill-ocean-south",
+      "image": "images/pelican-hill.jpg",
+      "title": "Pelican Hill Ocean South: Newport Coast's Gem",
+      "description": "Tom Fazio's stunning Orange County resort course offers ocean views from every hole.",
+      "body": "The Resort at Pelican Hill in Newport Coast features two Tom Fazio-designed courses, and the Ocean South is the standout. Opened in 1991 and renovated in 2008, it delivers on its promise: ocean views from all 18 holes.\n\nPerched on bluffs above Crystal Cove State Park, the Ocean South course plays through rolling coastal terrain with sweeping views of the Pacific and Catalina Island. The par-3 12th, playing downhill with the ocean as a backdrop, is one of the most scenic holes in Southern California.\n\nFazio's design is resort-friendly — the course is challenging but fair, with wide landing areas off the tee and multiple tee boxes that accommodate all skill levels. The greens are large and well-contoured, rewarding players who take time to read the subtle breaks.\n\nThe conditioning at Pelican Hill is immaculate. The Bermuda grass fairways are tight and firm, and the course drains exceptionally well, making it playable year-round in Orange County's mild climate.\n\nGreen fees are in the $250-$350 range depending on the season, and the resort offers stay-and-play packages that include access to the spa, pool, and fine dining. It's an ideal golf getaway for couples or groups who want luxury alongside their links.\n\nFor visiting golfers in the Los Angeles/Orange County area, Pelican Hill is one of the finest resort experiences available.",
+      "tagList": ["golf", "pelican-hill", "newport-beach", "california", "resort", "ocean-views"],
+      "createdAt": "2026-03-09T16:00:00.000Z",
+      "updatedAt": "2026-03-09T16:00:00.000Z",
+      "favorited": false,
+      "favoritesCount": 12,
+      "author": {
+        "username": "golfcalifornia",
+        "bio": "Covering the best golf courses across California.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=GC",
+        "following": false
+      }
+    },
+    {
+      "slug": "pacific-dunes-half-moon-bay",
+      "image": "images/half-moon-bay.jpg",
+      "title": "Half Moon Bay: The Old Course on the Bluffs",
+      "description": "A coastal links experience just 30 minutes south of San Francisco, overlooking the Pacific.",
+      "body": "The Ritz-Carlton Half Moon Bay features two courses, and the Old Course — designed by Arnold Palmer and Francis Duane — is the one that captures the imagination. Sitting on oceanfront bluffs south of San Francisco, it provides a links-style experience rare on the West Coast.\n\nThe signature hole is the par-4 18th, which runs along the cliff edge with the Pacific Ocean immediately to the left. It's a thrilling finishing hole that demands a confident drive and a precise approach to a green framed by the ocean, the iconic Ritz-Carlton hotel, and a fire pit where post-round drinks await.\n\nThe Old Course plays firm and fast, with coastal winds that can turn a benign layout into a real challenge. At just over 6,900 yards from the back tees, it's not excessively long, but club selection and shot shaping are essential when the wind is up.\n\nThe setting is remarkable — fog rolling in from the Pacific, harbor seals on the rocks below, and the distant outline of the Mavericks surf break where big-wave surfers chase giants. It's a golf experience that feels distinctly Northern California.\n\nGreen fees run around $250-$350, and the Ritz-Carlton offers luxury accommodations and dining. For Bay Area golfers looking for a memorable day trip or weekend getaway, Half Moon Bay is hard to beat.",
+      "tagList": ["golf", "half-moon-bay", "san-francisco", "california", "links", "coastal"],
+      "createdAt": "2026-03-08T07:30:00.000Z",
+      "updatedAt": "2026-03-08T07:30:00.000Z",
+      "favorited": false,
+      "favoritesCount": 14,
+      "author": {
+        "username": "golfcalifornia",
+        "bio": "Covering the best golf courses across California.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=GC",
+        "following": false
+      }
+    },
+    {
+      "slug": "la-quinta-stadium-course",
+      "image": "images/pga-west.jpg",
+      "title": "PGA West Stadium Course: Pete Dye's Desert Masterpiece",
+      "description": "The infamous Stadium Course at PGA West in La Quinta is one of the most difficult — and dramatic — courses in the California desert.",
+      "body": "PGA West Stadium Course in La Quinta, designed by Pete Dye and opened in 1986, was built to challenge the best players in the world — and it succeeded, perhaps too well. When the PGA Tour held the Skins Game here in 1986, Lee Trevino famously declared he'd donate his winnings to charity if he ever had to play it again.\n\nThe course is vintage Dye: railroad ties, island greens, severe bunkering, and optical illusions everywhere. The par-3 17th — \"Alcatraz\" — features an island green surrounded by rocks and water, with no bail-out. It's one of the most intimidating shots in desert golf.\n\nBut the Stadium Course is more than a collection of gimmicks. The routing through the Coachella Valley desert, with the Santa Rosa Mountains as a backdrop, is visually stunning. The course plays 7,300 yards from the tips with a slope rating of 150, but forward tees make it accessible for higher-handicap players.\n\nThe desert setting means year-round golf, though summer temperatures can exceed 110°F. The prime season is October through April, when the weather is warm and dry with cool mornings perfect for golf.\n\nGreen fees are seasonal, ranging from $100 in summer to $250+ in peak season. The La Quinta Resort & Club offers packages that include access to multiple courses in the area.\n\nFor golfers who want to test their mettle against one of Dye's toughest designs, the Stadium Course is a must-play.",
+      "tagList": ["golf", "pga-west", "la-quinta", "california", "desert", "pete-dye"],
+      "createdAt": "2026-03-07T12:00:00.000Z",
+      "updatedAt": "2026-03-07T12:00:00.000Z",
+      "favorited": false,
+      "favoritesCount": 16,
+      "author": {
+        "username": "desertgolfer",
+        "bio": "Exploring the best desert golf experiences in California.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=DG",
+        "following": false
+      }
+    },
+    {
+      "slug": "olympic-club-lake-course",
+      "image": "images/olympic-club.jpg",
+      "title": "The Olympic Club Lake Course: San Francisco's Championship Venue",
+      "description": "Tucked into the foggy hillside near the Pacific, the Lake Course is one of the toughest U.S. Open venues in history.",
+      "body": "The Olympic Club's Lake Course in San Francisco has hosted five U.S. Opens and is known for producing dramatic finishes and shocking upsets. It was here in 1955 that unknown Jack Fleck defeated Ben Hogan, and in 2012 that Webb Simpson prevailed in windy, difficult conditions.\n\nDesigned by Sam Whiting and Willie Watson in 1924, and later reshaped by Robert Trent Jones Sr., the Lake Course plays through a dense corridor of Monterey cypress, pine, and eucalyptus trees. Despite its name, there is very little water on the course — the \"lake\" refers to nearby Lake Merced.\n\nThe defining characteristic of the Lake Course is its tree-lined fairways, which create narrow chutes that demand accuracy off the tee. Miss the fairway and you're likely blocked out by trees or buried in thick rough. The par-70 layout has just two par 5s, placing a premium on iron play and putting.\n\nThe 18th hole, a long par 4 that plays uphill to a well-bunkered green, is a fitting conclusion to one of the most demanding rounds in Northern California. In U.S. Open conditions, it's a hole where championships are won and lost.\n\nThe Olympic Club is private, but it has a limited program for reciprocal play with other private clubs. For those fortunate enough to play it, the Lake Course offers a stern, old-school test of golf in one of the most atmospheric settings in the game.\n\nSan Francisco's signature fog often rolls in during afternoon rounds, adding a moody, almost mystical quality to the experience.",
+      "tagList": ["golf", "olympic-club", "san-francisco", "california", "us-open", "private"],
+      "createdAt": "2026-03-06T15:30:00.000Z",
+      "updatedAt": "2026-03-06T15:30:00.000Z",
+      "favorited": false,
+      "favoritesCount": 22,
+      "author": {
+        "username": "golfhistorian",
+        "bio": "Writing about the history and design of great golf courses.",
+        "image": "https://api.dicebear.com/7.x/initials/svg?seed=GH",
+        "following": false
+      }
+    }
+  ],
+  "tags": ["golf", "california", "monterey", "san-diego", "los-angeles", "pebble-beach", "torrey-pines", "architecture", "pga-tour", "desert", "coastal", "links", "public-course", "private", "resort"],
+  "users": [
+    {
+      "email": "maeve@example.com",
+      "username": "Maeve_Horseman",
+      "bio": null,
+      "image": "https://api.dicebear.com/7.x/initials/svg?seed=MH",
+      "password": "password123",
+      "token": "maeve-static-jwt-token-2026"
+    }
+  ]
+}

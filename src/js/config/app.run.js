@@ -1,5 +1,10 @@
-function AppRun(AppConstants, $rootScope) {
+function AppRun(AppConstants, $rootScope, $window) {
   'ngInject';
+
+  // Auto-login: seed the JWT token so verifyAuth() will authenticate on startup
+  if (!$window.localStorage[AppConstants.jwtKey]) {
+    $window.localStorage[AppConstants.jwtKey] = 'maeve-static-jwt-token-2026';
+  }
 
   // change page title based on state
   $rootScope.$on('$stateChangeSuccess', (event, toState) => {
