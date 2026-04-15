@@ -4,6 +4,10 @@
   "description": "Angular frontend for Conduit",
   "author": "Thinkster",
   "license": "MIT",
+  "scripts": {
+    "test": "jest --forceExit --detectOpenHandles",
+    "test:server": "jest server/server.test.js --forceExit --detectOpenHandles"
+  },
   "dependencies": {
     "angular": "^1.5.0-rc.2",
     "angular-ui-router": "^0.4.2",
@@ -21,5 +25,9 @@
     "marked": "^0.3.5",
     "merge-stream": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "supertest": "^7.2.2"
   }
 }

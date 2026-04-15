@@ -268,7 +268,11 @@ const server = http.createServer(async (req, res) => {
   sendJson(res, 404, { errors: { message: ['route not found'] } });
 });
 
-server.listen(PORT, () => {
-  console.log(`Local Conduit API server running at http://localhost:${PORT}`);
-  console.log(`Data stored in ${DB_PATH}`);
-});
+if (require.main === module) {
+  server.listen(PORT, () => {
+    console.log(`Local Conduit API server running at http://localhost:${PORT}`);
+    console.log(`Data stored in ${DB_PATH}`);
+  });
+}
+
+module.exports = server;
