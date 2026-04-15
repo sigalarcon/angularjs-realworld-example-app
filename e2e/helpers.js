@@ -29,6 +29,10 @@ async function loginAsTestUser(page) {
 
 /**
  * Clear localStorage so the app starts unauthenticated.
+ * NOTE: This helper is ineffective on its own because app.run.js re-seeds
+ * the JWT token when localStorage is empty. For unauthenticated tests,
+ * navigate to '/' first, then use page.evaluate() to clear the token
+ * after AngularJS has bootstrapped. See auth.spec.js for an example.
  */
 async function clearAuth(page) {
   await page.addInitScript(() => {
