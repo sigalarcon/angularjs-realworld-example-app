@@ -21,7 +21,8 @@ module.exports = function (config) {
       debug: true,
       transform: [
         ['babelify', { presets: ['es2015'] }],
-        'browserify-ngannotate'
+        'browserify-ngannotate',
+        ['browserify-istanbul', { instrumenterConfig: { embedSource: true } }]
       ]
     },
 
